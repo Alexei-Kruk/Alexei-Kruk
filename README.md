@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexei-kruk&label=Profile%20views&color=0e75b6&style=flat" alt="alexei-kruk" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 📫 How to reach me **alexei.kruk.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
