@@ -23,6 +23,7 @@
 <!--   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> -->
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexei-kruk&show_icons=true&locale=en&layout=compact" alt="alexei-kruk" /></p>
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexei-kruk&show_icons=true&locale=en&layout=compact" alt="alexei-kruk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexei-kruk&" alt="alexei-kruk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexei-kruk&" alt="alexei-kruk" /></p> -->
+ 
