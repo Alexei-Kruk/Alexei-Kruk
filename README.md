@@ -42,7 +42,6 @@ I build responsive layouts using HTML/CSS/JS and Nuxt.js, work with REST APIs, a
   <!-- Backend -->
   <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" height="40" alt="PHP"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://modx.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MODX_Logo.svg/512px-MODX_Logo.svg.png" width="40" height="40" alt="MODX"/></a>
   
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
