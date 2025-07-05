@@ -50,7 +50,7 @@ I build responsive layouts using HTML/CSS/JS and Nuxt.js, work with REST APIs, a
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
   <a href="https://httpd.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40" alt="Apache"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
-  <a href="https://swagger.io/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-8ftlmtxv.png" width="40" height="40" alt="REST API / Swagger"/></a>
+ <!--  <a href="https://swagger.io/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-8ftlmtxv.png" width="40" height="40" alt="REST API / Swagger"/></a>-->
 </p>
 
 ---
